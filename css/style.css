@@ -243,7 +243,7 @@ button {
 
 header {
      height: 105px;
-     background: #cf2e2e;
+     background: #007bff;
      width: 100%;
      padding: 33px 30px;
 }
@@ -381,7 +381,7 @@ ul.email li img {
 }
 
 .banner_main .bg_white h1 {
-     color: #141111;
+     color: #28a745;
      font-size: 70px;
      line-height: 84px;
      font-weight: 700;
@@ -497,7 +497,7 @@ ul.email li img {
 
 .read_more {
      display: block;
-     background: #cf2e2e;
+     background: #28a745;
      color: #fff;
      max-width: 224px;
      height: 61px;
@@ -520,7 +520,7 @@ ul.email li img {
 
 .building {
      padding-top: 323px;
-     background: url(../images/bg.png);
+     background: url(../img/projects/blue-backg.jpg);
      background-size: 100% 100%;
      background-position: center center;
      background-repeat: no-repeat;
@@ -539,7 +539,7 @@ ul.email li img {
 }
 
 .yello {
-     color: #fe9a0c;
+     color: #bb13ca ;
 }
 
 
@@ -756,7 +756,7 @@ ul.email li img {
 /** footer **/
 
 .footer {
-     background: #cf2e2e;
+     background: #007bff;
      padding-top: 362px
 }
 
